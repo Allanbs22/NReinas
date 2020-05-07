@@ -1,5 +1,6 @@
 # NReinas
 N Queens problem implementation in C++
+Developed in 2017.
 
 This is a general implementation of the 8 Queens puzzle that you can read here:
 
